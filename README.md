@@ -25,6 +25,10 @@ DISCORD_PREFIX=
 * Volume control
 * Pause/Resume
 
+
+[![Pajungti](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Enoxs/discord-music-bot)
+
+
 ## Contributing
 
 1. [Fork the repository](https://github.com/iCrawl/discord-music-bot/fork)!
